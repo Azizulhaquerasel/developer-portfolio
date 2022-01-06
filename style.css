@@ -9,9 +9,10 @@ h2{
   
 }
 .orange-color{
-    color: orange;
+    color: rgb(93, 194, 228);
 
 }
+
 .flexible-container{
     display: flex;
     margin-bottom: 120px ;
@@ -19,6 +20,7 @@ h2{
 .half-width{
     width: 70%;
     padding-left: 5%;
+    
 }
 .half-width img{
     width: 70%;
@@ -39,7 +41,7 @@ h2{
 
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat ;
-    background-position: right ;
+    background-position: left ;
 }
 .Experience-area{
 background-image:url(images/exp-bg.png);
@@ -57,4 +59,8 @@ background-position: left;
     box-shadow: 10px 10px 30px gray;
     border: 10px salmon;
     border-image: linear-gradient(#f6b73c, #4d9f0c) 30;;
+
+    .know-our{
+        
+    }
 }
