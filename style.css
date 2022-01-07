@@ -87,10 +87,7 @@ margin-bottom: 25px;
  }
 .service{
     padding-right: 5%;
-    width: 100%;
-    height: 290px;
-    display: flex;
-    background-color: black; 
+   
     }
     .half-width{
         width: 50%;
@@ -102,6 +99,7 @@ margin-bottom: 25px;
 
     .contact{
        display: flex;
+       margin-bottom: 150%;
        background-image: url(images/app\ image.jpg);
       background-position: right;
     }
