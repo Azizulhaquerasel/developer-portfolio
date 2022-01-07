@@ -1,27 +1,20 @@
 body{
     font-family: 'Poppins', sans-serif;
-    margin: 0px;
-}
+    margin: 0px;}
 h1{
     font-size: 50px;
 }
 h2{
-  
-}
+  }
 .orange-color{
-    color: rgb(93, 194, 228);
-
-}
+    color: rgb(93, 194, 228);}
 
 .flexible-container{
     display: flex;
-    margin-bottom: 120px ;
-}
+    margin-bottom: 120px ;}
 .half-width{
     width: 70%;
-    padding-left: 5%;
-    
-}
+    padding-left: 5%;}
 .half-width img{
     width: 70%;
 }
@@ -59,8 +52,58 @@ background-position: left;
     box-shadow: 10px 10px 30px gray;
     border: 10px salmon;
     border-image: linear-gradient(#f6b73c, #4d9f0c) 30;;
-
-    .know-our{
-        
-    }
 }
+
+.about{
+    background-image: url(images/project.png);
+   
+
+    width:40% ;
+    margin-left: 5%;
+    margin-right: 5%;
+    display: flex;
+    padding-right: 20%;
+}
+.half-width img{
+width: ;
+}
+
+
+.known{
+    display: flex;
+    background-image: url(images/project.png);
+    background-repeat: no-repeat;
+    background-position: left ;
+   
+
+}
+
+.service p{ 
+color: white;
+font-size: 30px;
+font-weight: bold;
+margin-bottom: 25px;
+
+ }
+.service{
+    padding-right: 5%;
+    width: 100%;
+    height: 290px;
+    display: flex;
+    background-color: black; 
+    }
+    .half-width{
+        width: 50%;
+        padding-right: 5%;
+    }
+    .half-width img{
+        width: 100%;
+    }
+
+    .contact{
+       display: flex;
+       background-image: url(images/app\ image.jpg);
+      background-position: right;
+    }
+
+   
